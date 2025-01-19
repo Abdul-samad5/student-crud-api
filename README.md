@@ -4,18 +4,18 @@ This is a simple Web API that allows you to perform CRUD (Create, Read, Update, 
 ## API Endpoints
 This Web API exposes the following endpoints:
 
-### GET /students
+### GET /student
 Get a list of all students.
 
-### GET /students/:id
+### GET /student/:id
 Get a single student by ID.
 
-### POST /students
+### POST /student
 Create a new student record.
 
-### PUT /students/:id
+### PUT /student/:id
 Update an existing student record.
 
-### DELETE /students/:id
+### DELETE /student/:id
 Delete an existing student record.
 
